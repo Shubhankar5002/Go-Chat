@@ -1,4 +1,4 @@
-# WhatsApp Clone
+# Go Chat
 
 Full Stack Whatsapp Clone with Flutter, Firebase & Riverpod 2.0!
 
